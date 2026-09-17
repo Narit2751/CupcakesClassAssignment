@@ -23,12 +23,14 @@ object DataSource {
         R.string.chocolate,
         R.string.red_velvet,
         R.string.salted_caramel,
-        R.string.coffee
+        R.string.coffee,
+        R.string.lemon_curd
     )
 
     val quantityOptions = listOf(
         Pair(R.string.one_cupcake, 1),
         Pair(R.string.six_cupcakes, 6),
-        Pair(R.string.twelve_cupcakes, 12)
+        Pair(R.string.twelve_cupcakes, 12),
+        Pair(R.string.eighteen_cupcakes, 18)
     )
 }
